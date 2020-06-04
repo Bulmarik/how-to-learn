@@ -1,6 +1,6 @@
-@import url(./_theme_dark/section-tittle_theme_dark.css);
+@import url(./_theme/section-title_theme_dark.css);
 
-.section-tittle {
+.section-title {
     margin: 0;
     width: 60%;
     text-align: center;

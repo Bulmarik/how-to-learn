@@ -1,6 +1,6 @@
-@import url(./_theme_dark/section-subtittle_theme_dark.css);
+@import url(./_theme/section-subtitle_theme_dark.css);
 
-.section-subtittle {
+.section-subtitle {
     margin: 0;
     width: 60%;
     margin-top: 20px;
