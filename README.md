@@ -5,4 +5,4 @@
 
 Простой лендинг :) Учусь верстать странички. Только HTML и CSS.
 
-[Посмотреть проект](https://bulmarik.github.io/how-to-learn/index.)
+[Посмотреть проект](https://bulmarik.github.io/how-to-learn/index.html)
