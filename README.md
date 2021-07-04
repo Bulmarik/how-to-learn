@@ -5,4 +5,6 @@
 
 Технологии: HTML5, CSS, Git  
 
-[Посмотреть проект](https://bulmarik.github.io/how-to-learn/index.html)
+Развертывание: скачать архив, разархивировать и запусть файл index.html  
+
+[Посмотреть проект](https://bulmarik.github.io/how-to-learn/index.html)  
